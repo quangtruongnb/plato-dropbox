@@ -1,0 +1,6 @@
+# Dropbox token 
+# This method will create a folder /Apps/Plato Fetcher in your Dropbox and sync with it.
+#    Open this https://www.dropbox.com/oauth2/authorize?response_type=code&token_access_type=offline&client_id=qv00v86kfe5d2j2&code_challenge_method=plain&code_challenge=0000000000000000000000000000000000000000000&redirect_uri=https://plato-dropbox.truongnq.dev
+#    Paste the command in a terminal
+#    Copy the line starting with `dropbox-token =` from your terminal
+dropbox-token = 'id:yyy'
